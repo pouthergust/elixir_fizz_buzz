@@ -1,6 +1,6 @@
 # FizzBuzz
 
-**TODO: Add description**
+This is a simple project to pratice a little bit more about Elixir
 
 ## Installation
 
